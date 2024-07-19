@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish Pandey</h1>
 <h3 align="center">Co-Founder@FreeDoctr ,Data Scientist@ KPMG ,Research Engineer Stealth #GraphML, #GeometricDL, #3DComputerVision, #DiffusionModels, #Generative AI #ML ,#RL, #LLMs, #BioInformatics</h3>
 
+<img align="right" alt-"Coding" width="400" src="https://raw.githubusercontent.com/Manish-GenAI/Manish-GenAI/master/gif3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-genai&label=Profile%20views&color=0e75b6&style=flat" alt="manish-genai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manish_genai" target="blank"><img src="https://img.shields.io/twitter/follow/manish_genai?logo=twitter&style=for-the-badge" alt="manish_genai" /></a> </p>

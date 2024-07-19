@@ -33,5 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-genai&show_icons=true&locale=en" alt="manish-genai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-genai&" alt="manish-genai" /></p>
-### 🔝 Top Contributed Repo
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=manish-genai)
+![](https://github-contributor-stats.vercel.app/api?username=manish-genai&limit=1&theme=flat&combine_all_yearly_contributions=true)

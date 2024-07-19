@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manish-genai&show_icons=true&locale=en" alt="manish-genai" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-genai&" alt="manish-genai" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-genai&" alt="manish-genai" /></p>
 

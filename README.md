@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Large Language Models, Natural Language Processing**
 
-- 📫 How to reach me **manishpandeyiitd@gmail.com**
+- 📫 How to reach me **manishpandey.application@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

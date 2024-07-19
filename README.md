@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **LLMs Agents, RAG pipelines, Multimodal Learning**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Large Language Models , Natural Language Processing**
+- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Large Language Models, Natural Language Processing**
 
 - 📫 How to reach me **manishpandeyiitd@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Pandey</h1>
-<h3 align="center">Co-Founder@FreeDoctr ,Data Scientist (Gen AI)@ KPMG ,Research Engineer Stealth #GraphML, #GeometricDL, #3DComputerVision, #DiffusionModels, #Generative AI #ML ,#RL, #LLMs, #BioInformatics</h3>
+<h3 align="center">Co-Founder@FreeDoctr ,Machine Learning Engineer (Gen AI)@ KPMG ,Research Engineer Stealth #GraphML, #GeometricDL, #3DComputerVision, #DiffusionModels, #Generative AI #ML ,#RL, #LLMs, #BioInformatics</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Agentic LLMs and Graph Neural Networks to solve problems in Healthcare Domain**
 
-- 🌱 I’m currently learning **LLMs Agents, RAG pipelines, Multimodal Learning**
+- 🌱 I’m currently learning **LLMs Agents, RAG pipelines, and Multimodal Learning**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Large Language Models, Natural Language Processing**
 

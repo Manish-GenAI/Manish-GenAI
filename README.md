@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Agentic LLMs and Graph Neural Networks to solve problems in Healthcare Domain and Finance**
 
-- 🌱 I’m currently learning **LLMs Agents, RAG pipelines, and Multimodal Learning**
+- 🌱 I’m currently learning **LLMs Agents, RAG pipelines, Multimodal Learning, GNNs for Finance and Healthcare, LLM Inference**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Large Language Models, Natural Language Processing**
 

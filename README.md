@@ -20,7 +20,7 @@
 <a href="https://twitter.com/manish_genai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manish_genai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manish-genai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-genai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manish_genai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish_genai" height="30" width="40" /></a>
-<a href="[https://scholar.google.com/citations?user=oaN-cmMAAAAJ&hl=en]" target="blank"><img align="center"
+<a href="https://scholar.google.com/citations?user=oaN-cmMAAAAJ&hl=en" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 </p>

@@ -36,11 +36,9 @@
  <img width="1000" src="Code Files/snake.svg" alt="snake"/>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-genai&show_icons=true&locale=en&layout=compact" alt="manish-genai" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manish-genai&show_icons=true&locale=en" alt="manish-genai" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-genai&" alt="manish-genai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-genai&" alt="manish-genai" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">

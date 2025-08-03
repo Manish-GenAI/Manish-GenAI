@@ -36,6 +36,16 @@
  <img width="1000" src="Code Files/snake.svg" alt="snake"/>
 </p>
 
+<h3 align="center">Statistics</h3>
+<div align="center">
+  <a href="[https://github.com/Manish-GenAI]">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manish-GenAI&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manish-GenAI&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manish-GenAI&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manish-GenAI&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish-GenAI&theme=2077" height="180em" />
+</div>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-genai&" alt="manish-genai" /></p>

@@ -47,5 +47,5 @@
 </p>
 
 
-[![Matrix SVG](CodeFiles/matrix.svg)](CodeFiles/matrix.svg)
+[![Matrix SVG](Svg/matrix.svg)](Svg/matrix.svg)
 

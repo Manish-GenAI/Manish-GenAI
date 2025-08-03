@@ -46,10 +46,15 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish-GenAI&theme=2077" height="180em" />
 </div>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-genai&" alt="manish-genai" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Manish-GenAI&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <p align="center">
   <img width="6500" height="200" src="https://github-readme-stats.vercel.app/api?username=manish-genai&show_icons=true&theme=vision-friendly-dark">

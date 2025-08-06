@@ -52,7 +52,7 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Manish-GenAI&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 

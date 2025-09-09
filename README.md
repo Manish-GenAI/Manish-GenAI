@@ -65,7 +65,7 @@
 [![Matrix SVG](Svg/matrix.svg)](Svg/matrix.svg)
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/submitaitools">Selena Wren</a> 2025 </i><br>
+  <i>&copy; <a href="https://github.com/Manish-GenAI">Manish Pandey</a> 2025 </i><br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
 

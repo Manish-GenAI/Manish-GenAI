@@ -64,6 +64,14 @@
 
 [![Matrix SVG](Svg/matrix.svg)](Svg/matrix.svg)
 
+---
+
+<h3 align="center" style="color:white;">
+  🚀 Creating, Automating, and Innovating.
+</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+
 <p align="center">
   <i>&copy; <a href="https://github.com/Manish-GenAI">Manish Pandey</a> 2025 </i><br>
   <kbd>Thanks for visiting 🙂</kbd>

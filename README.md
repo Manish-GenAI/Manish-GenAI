@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/manish_genai" target="blank"><img src="https://img.shields.io/twitter/follow/manish_genai?logo=twitter&style=for-the-badge" alt="manish_genai" /></a> </p>
 
-- 🔭 I’m currently working on **Agentic LLMs and Graph Neural Networks to solve problems in the Healthcare Domain and Finance, Multi-Modality in Medical Imaging **
+- 🔭 I’m currently working on **Agentic LLMs and Graph Neural Networks to solve problems in the Healthcare, Finance and Multi-Modality in Medical Imaging **
 
 - 🌱 I’m currently exploring & learning **LLMs Agents, RAG pipelines, Multimodal Learning, GNNs for Finance and Healthcare, LLM Inference, Vision Language Models**
 
